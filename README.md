@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-# business-ai-assistant
-A modular AI-powered assistant for business workflows with RAG, AI agents, and analytics dashboards.
-=======
 # Business AI Assistant
-
-![Aztify AI Dashboard Demo](./docs/demo.png)
 
 A modular, production-ready AI assistant designed for enterprise workflows. This system leverages Large Language Models and Retrieval-Augmented Generation (RAG) to help users chat with company documents, summarize analytics, and perform dynamic automated tasks like inventory querying.
 
